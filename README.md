@@ -1,8 +1,11 @@
 <h1> Rede CNN - Keras - Kaggle </h1>
 
-Repositório criado para trabalho pratico da disciplina de Inteligência Artificial
+Repositório criado para trabalho pratico da disciplina de Inteligência Artificial.
 
 Unisinos - 2022/1
+
+Link do Notebook no GoogleColab: (https://colab.research.google.com/drive/1G7uIH4UvCKWCW-TYUIXhz2kSMkTv4J17?hl=pt_BR#scrollTo=ES4NAnxmYfiJ)
+
 
 <h2> Objetivo do Trabalho: </h2>
 

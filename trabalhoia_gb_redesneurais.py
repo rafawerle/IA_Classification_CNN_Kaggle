@@ -185,5 +185,5 @@ for i, idx in enumerate(np.random.choice(x_test.shape[0], size=30, replace=False
     ax.set_title("{} ({})".format(classes[pred_idx], classes[true_idx]),
                  color=("green" if pred_idx == true_idx else "red"))
 
-"""O Modelo apresentou Acurácia de 93,9.
-   Das 30 imagens geradas, o modelo classificou 28 imagens corretamente. O que foi bem satisfatório."""
+# O Modelo apresentou Acurácia de 93,9.
+# Das 30 imagens geradas, o modelo classificou 28 imagens corretamente. O que foi bem satisfatório."""
